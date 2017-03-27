@@ -109,4 +109,3 @@ AlbumHtmlFile.write('                   </section> \n'
                     '       </body> \n'
                     '</html>')
 AlbumHtmlFile.close()
-print locale.getlocale()
